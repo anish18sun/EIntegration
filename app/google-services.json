@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "903210015487",
+    "firebase_url": "https://eintegrator-2c6d9.firebaseio.com",
+    "project_id": "eintegrator-2c6d9",
+    "storage_bucket": "eintegrator-2c6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903210015487:android:06cad814d5228776",
+        "android_client_info": {
+          "package_name": "com.hypervisor.eintegrator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903210015487-211ksil2f38qealsumengj1gvlqg3vof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAXNHY2UolLIEGsV4os4yjhrXO1MHp6bE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

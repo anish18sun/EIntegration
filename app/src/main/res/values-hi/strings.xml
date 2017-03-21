@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">EIntegrator</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">अगला</string>
+    <string name="skip">छोड़ें</string>
+    <string name="start">समझ गया</string>
+
+    <string name="slide_1_title">स्वागतम</string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title"></string>
+    <string name="slide_2_desc"></string>
+
+    <string name="slide_3_title"></string>
+    <string name="slide_3_desc"></string>
+
+    <string name="slide_4_title"></string>
+    <string name="slide_4_desc"></string>
+
+    <string name="play_again_desc"></string>
+    <string name="play_again"></string>
+    <string name="bhamashah">भामाशाह</string>
+    <string name="bhamashah_id">भामाशाह आई. डी.</string>
+    <string name="bhamashah_id_error">कृपया अपना भामाशाह आईडी दर्ज करें</string>
+    <string name="message_wait">आईडी विवरण जांचना| कृपया प्रतीक्षा कर ...ें</string>
+    <string name="bhamashah_wrong_details">कृपया अपने भामाशाह का सही विवरण दर्ज करें</string>
+
+    <string-array name="menu_type">
+        <item>भामाशाह जानकारी</item>
+        <item>खाते की जानकारी</item>
+        <item>पात्रता</item>
+    </string-array>
+
+    <string name="home">घर</string>
+    <string name="entitlement">पात्रता</string>
+    <string name="bill">बिल भुगतान</string>
+    <string name="name">नाम</string>
+    <string name="fathersName">पिता का नाम</string>
+    <string name="mothersName">माता का नाम</string>
+    <string name="dateofbirth">जन्म तिथि</string>
+    <string name="relation">परिवार के प्रमुख के साथ संबंध</string>
+    <string name="entitlement_amount">पात्रता राशि</string>
+    <string name="entitlement_due_date">नियत तारीख</string>
+    <string name="entitlement_id">पात्रता आई. डी.</string>
+    <string name="otp_string">ओटीपी दर्ज करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="ok">भेजें</string>
+    <string name="logout">बाहर जाएं</string>
+    <string name="action_language">भाषा बदलो</string>
+    <string name="internet_not_connected">सुनिश्चित करें कि आप इंटरनेट से जुड़े हैं</string>
+
+</resources>

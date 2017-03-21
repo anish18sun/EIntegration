@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">EIntegrator</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title"></string>
+    <string name="slide_2_desc"></string>
+
+    <string name="slide_3_title"></string>
+    <string name="slide_3_desc"></string>
+
+    <string name="slide_4_title"></string>
+    <string name="slide_4_desc"></string>
+
+    <string name="play_again_desc"></string>
+    <string name="play_again"></string>
+    <string name="welcome_language">Choose Language /  भाषा चुनें</string>
+
+    <string-array name="menu_type">
+        <item>Bhamashah Info</item>
+        <item>Account Info</item>
+        <item>Entitlements</item>
+    </string-array>
+
+    <string name="title_activity_bhamashah">Bhamashah</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_entitlements">Entitlements</string>
+    <string-array name="bill_types">
+        <item>Mobile</item>
+        <item>Electricity</item>
+        <item>Water</item>
+        <item>Telephone</item>
+    </string-array>
+    <string name="title_activity_bill_payment">BillPayment</string>
+    <string name="title_activity_electricity_bill">ElectricityBill</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="bhamashah">Bhamashah</string>
+    <string name="bhamashah_id">Bhamashah ID</string>
+    <string name="bhamashah_id_error">Please enter your Bhamashah ID</string>
+    <string name="message_wait">Checking ID details. Please Wait ..</string>
+    <string name="bhamashah_wrong_details">Please enter correct details of your bhamashah</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="home">Home</string>
+    <string name="entitlement">Entitlement</string>
+    <string name="bill">Bill Payment</string>
+    <string name="name">Name</string>
+    <string name="fathersName">Father Name</string>
+    <string name="mothersName">Mother Name</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="relation">Relation with Head of Family</string>
+    <string name="entitlement_amount">Entitlement Amount</string>
+    <string name="entitlement_due_date">Due Date</string>
+    <string name="entitlement_id">Entitlement ID</string>
+    <string name="otp_string">Enter OTP</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Send</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="action_language">Change Language</string>
+    <string name="internet_not_connected">Make sure you are connected with Internet</string>
+    <string name="chat">Chat</string>
+</resources>
